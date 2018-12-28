@@ -1,1 +1,1 @@
-# Veri-Yap-lar--Projeleri
+# Veri-Yapilari-Projeleri
