@@ -2,8 +2,8 @@
 
 ## İçerik
 
-  1. Kullanılan Teknojiler
-  2. Proje Tanımı
+  1. [Kullanılan Teknojiler](https://github.com/mehmetaydintr/Veri_Yapilari_Projeleri#kullan%C4%B1lan-teknolojiler)
+  2. [Proje Tanımı](https://github.com/mehmetaydintr/Veri_Yapilari_Projeleri#proje-tan%C4%B1m%C4%B1)
 
 ## Kullanılan Teknolojiler
 
